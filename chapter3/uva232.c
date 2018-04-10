@@ -77,6 +77,6 @@ int main(){
         round++;
     }
 
-    // system("pause");
+    system("pause");
     return 0;
 }
